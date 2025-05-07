@@ -1,0 +1,6 @@
+name: LavaDeathLogger
+version: 1.0
+main: lavachu.LavaDeathLogger
+api-version: 1.21.5
+author: ch0chuu
+description: 용암에 빠져 죽을 때만 인벤토리 로그를 저장하게 하는 플러그인
