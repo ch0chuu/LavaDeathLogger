@@ -27,7 +27,7 @@ InventoryRollbackPlus와 함께 사용하는 보조 플러그인으로, **플레
 이 프로젝트는 **Maven**으로 구성되어 있습니다.
 
 ```bash
-mvn clean package
+mvn clean package```
 
 빌드 결과는 /target 폴더에 LavaDeathLogger.jar로 생성됩니다.
 
